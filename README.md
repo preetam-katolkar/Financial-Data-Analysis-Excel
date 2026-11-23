@@ -16,10 +16,10 @@ An end-to-end data analytics project built in **Microsoft Excel** using the *Fin
 
 ## Visuals & Dashboard
 ### Interactive Sales & Profit Dashboard
-![Dashboard](dashboard.png)
+
 
 ### 6-Month Sales Forecast
-![Forecast](forecast.png)
+
 
 ## Tools & Techniques Used
 * **Data Cleaning:** Sorting, Filtering, Currency Formatting, Structured Tables
